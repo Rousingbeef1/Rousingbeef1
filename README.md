@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Eu+sou+o+Luccas!;Bem-vindo(a)+ao+meu+GitHub!" />
 
-[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=ThyagoVinfaso&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Rousingbeef1&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
  Cursando Engenharia de Software na Universidade Tecnológica Federal do Paraná
 
